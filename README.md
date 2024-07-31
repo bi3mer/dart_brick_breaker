@@ -1,3 +1,3 @@
 # brick_breaker
 
-A new Flutter project.
+From [tutorial](https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker).
